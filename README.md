@@ -1,4 +1,5 @@
 # Manmeet16_23-27_Sem1_C
+Above are some basic C programs as i first started with programming writing programs in c language. My new journey to programming unfolded here :)
 Algorithm and problem solving
 https://drive.google.com/file/d/1U_M-b84wiU2ozMsGhVPCoQ7pWtdkifMp/view?usp=share_link
 
@@ -13,3 +14,4 @@ https://drive.google.com/file/d/1rUgtek3QUf4LF5DnIZxzHAFU8PgQVrTV/view?usp=share
 
 Programming paradigms used in Artificial intelligence
 https://drive.google.com/file/d/1oUM-zfYPq7ZvoX5l48XY_naKQkNvBvk0/view?usp=share_link
+
